@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 
 
@@ -9,8 +9,6 @@
 # git commit -m "first commit"
 # git push -u origin main
 # git pull origin main
-=======
->>>>>>> d08255b3088dc5bcc0ac19900b64add373a23e06
 # 常用的git指令,并附上注释
 # git init  # 初始化一个git仓库
 # git add .  # 添加所有文件到暂存区
@@ -39,28 +37,18 @@
 # git pull origin dev:master  # 从远程的dev分支拉取到本地的master分支
 # git fetch origin dev  # 从远程的dev分支拉取到本地的origin/dev分支
 # git branch -r  # 查看远程分支
-<<<<<<< HEAD
 # git config --global pull.rebase false #
-=======
->>>>>>> d08255b3088dc5bcc0ac19900b64add373a23e06
 
 
 # 正确的git clone后的修改文件、提交文件、推送文件的流程
 
 # git clone
 # git add .
-<<<<<<< HEAD
 # git commit -m "first commit"
-=======
 # git commit -m "起个提交的名字"
->>>>>>> d08255b3088dc5bcc0ac19900b64add373a23e06
 # git push -u origin main
 # git pull origin main
 
-
-<<<<<<< HEAD
-
-=======
 # 水仙花数
 # for i in range(100, 1000):
 #     a = i // 100
@@ -75,4 +63,4 @@
 #     for j in range(1, i + 1):
 #         print(f"{j} * {i} = {i * j}", end="\t")
 #     print()
->>>>>>> d08255b3088dc5bcc0ac19900b64add373a23e06
+
