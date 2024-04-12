@@ -1,7 +1,7 @@
 # show "I love you" in the window of that red center heart. Using tuple.
 import turtle
 
-turtle.color("red")
+turtle.color("pink")
 turtle.begin_fill()
 turtle.left(50)
 turtle.forward(133)
