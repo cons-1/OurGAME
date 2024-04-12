@@ -1,3 +1,13 @@
+
+
+
+# 正确的git clone后的修改文件、提交文件、推送文件的流程
+
+# git clone
+# git add .
+# git commit -m "first commit"
+# git push -u origin main
+# git pull origin main
 # 常用的git指令,并附上注释
 # git init  # 初始化一个git仓库
 # git add .  # 添加所有文件到暂存区
@@ -26,7 +36,7 @@
 # git pull origin dev:master  # 从远程的dev分支拉取到本地的master分支
 # git fetch origin dev  # 从远程的dev分支拉取到本地的origin/dev分支
 # git branch -r  # 查看远程分支
-
+# git config --global pull.rebase false #
 
 
 # 正确的git clone后的修改文件、提交文件、推送文件的流程
