@@ -32,9 +32,9 @@
 
 # git clone
 # git add .
-# git commit -m "first commit"
-# git push -u origin master
-# git pull origin master
+# git commit -m "起个提交的名字"
+# git push -u origin main
+# git pull origin main
 
 
 # 水仙花数
