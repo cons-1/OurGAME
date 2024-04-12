@@ -28,7 +28,6 @@
 # git branch -r  # 查看远程分支
 
 
-
 # 正确的git clone后的修改文件、提交文件、推送文件的流程
 
 # git clone
@@ -36,3 +35,19 @@
 # git commit -m "first commit"
 # git push -u origin master
 # git pull origin master
+
+
+# 水仙花数
+# for i in range(100, 1000):
+#     a = i // 100
+#     b = i // 10 % 10
+#     c = i % 10
+#     if a ** 3 + b ** 3 + c ** 3 == i:
+#         print(i)
+
+
+# 九九乘法表
+# for i in range(1, 10):
+#     for j in range(1, i + 1):
+#         print(f"{j} * {i} = {i * j}", end="\t")
+#     print()
