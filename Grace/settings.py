@@ -1,0 +1,6 @@
+# settings.py
+# 游戏设置
+
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 600
+GRID_SIZE = 20
